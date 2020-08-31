@@ -1,8 +1,17 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author" : "Parv Kapadia",
+	"author": "Parv Kapadia",
+	"description": "A starter project for freecodecamp apis and microservices certification",
+	"keywords": [
+		"freecodecamp",
+		"apis",
+		"microservices"
+	],
+	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
